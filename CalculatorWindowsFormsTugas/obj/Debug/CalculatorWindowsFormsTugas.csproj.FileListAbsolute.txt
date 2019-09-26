@@ -1,0 +1,20 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\bin\Debug\CalculatorWindowsFormsTugas.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\bin\Debug\CalculatorWindowsFormsTugas.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\bin\Debug\CalculatorWindowsFormsTugas.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.csprojAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.frmCalculator.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Praktikum\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.pdb
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\bin\Debug\CalculatorWindowsFormsTugas.exe.config
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\bin\Debug\CalculatorWindowsFormsTugas.exe
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\bin\Debug\CalculatorWindowsFormsTugas.pdb
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.frmCalculator.resources
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.Properties.Resources.resources
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.exe
+C:\Users\ACER\Downloads\CalculatorAppForm-master\CalculatorAppForm-master\CalculatorApp\CalculatorWindowsFormsTugas\obj\Debug\CalculatorWindowsFormsTugas.pdb
